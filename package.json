@@ -45,7 +45,7 @@
   "dependencies": {
     "multiaddr": "^2.2.3",
     "lodash.uniqby": "^4.7.0",
-    "peer-id": "^0.8.5"
+    "peer-id": "git://github.com/duomarket/js-peer-id.git"
   },
   "contributors": [
     "David Dias <daviddias.p@gmail.com>",
